@@ -1,4 +1,4 @@
-# 
+# Polymarket vip bot: liquidity-provision & cross-chain-arbitrage offers the most advanced Polymarket bot, with liquidity-provision and cross-chain-arbitrage. Ideal for professional
 
 
 
